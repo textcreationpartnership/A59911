@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sherlockianus delineatus, or, The character of a Sherlockian occasion'd by Dr. Sherlock's late book, or Reasons for taking the oath of allegiance to Their Majesties K. William and Q. Mary.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59911</idno><idno type="EEBO-CITATION">7918813</idno>
+  <idno type="VID">40457</idno>
+  <idno type="EEBO-PROQUEST">2248543193</idno>
+  
+            <idno type="STC">Wing S3381</idno>
+            <idno type="STC">ESTC R23901</idno>
+            <idno type="OCLC">07918813</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40457)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1212:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sherlockianus delineatus, or, The character of a Sherlockian occasion'd by Dr. Sherlock's late book, or Reasons for taking the oath of allegiance to Their Majesties K. William and Q. Mary.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author and are to be sold by most booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Sherlock, William, 1641?-1707.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response_to_book">
+            <pb facs="tcp:40457:1"/>
+            <pb n="1" facs="tcp:40457:1"/>
+            <head>
+               <hi>Sherlockianus Delineatus:</hi> OR, THE CHARACTER of a Sherlockian OCCASION'D By Dr. <hi>Sherlock</hi>'s late Book, or Reasons for taking the Oath of Allegiance to their Majesties K. <hi>William</hi> and Q. <hi>Mary.</hi>
+            </head>
+            <p>DR. <hi>Sherlock</hi> having, more especially of late, since his taking the Oaths, made so great a Noise in the World, and greater since the Publication of his Fa<g ref="char:EOLhyphen"/>mous Book, or Reasons in Justification of his doing it, and there being already some, and like to be many more grave and serious An<g ref="char:EOLhyphen"/>swers to him, 'tis hop'd it may prove not a little divertive to give the true Character of a <hi>Sherlockian,</hi> whereby he may see how he looks himself, and others, how they like him.</p>
+            <p>There are three Ingredients then that goe to the making up of a true <hi>Sherlockian, viz.</hi> Pride, Obstinacy and Hipocrisie; to which may be added a fourth, <hi>viz.</hi> Enthusiasm, which may be not a little admir'd at in one, who accounted every one an <hi>Enthusiast</hi> that had more Sanctity than himself; or that had any measure of the Holy Spirit, to whose Operation he was a Stranger, and so derided at it in others. As for his Pride, it proceeds from a Self-conceit of his Parts, which boyls up to such a height, that at length it breaks forth into the Itch after Po<g ref="char:EOLhyphen"/>pularity, a Disease almost incurable among some of the Clergy. As for his Obstinacy, it will in a short time dissolve in a sufficient quan<g ref="char:EOLhyphen"/>tity of <hi>Aurum Fulminans,</hi> and in the true <hi>Aqua <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egalis</hi> of Self-Interest and Convenience. And <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hen to conceal the suddenness of the unex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ected Dissolution, Hypocrisie is ready at hand <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ith an Expedient to instruct him how to steer <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>etween <hi>Scylla</hi> and <hi>Carybdis,</hi> with the Ballast of a <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>illiamite</hi> in Tongue and a <hi>Jacobite</hi> in Heart. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut then for his Enthusiasm, 'tis apparent, in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at he resolves all into God Almighty's imme<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ate Act; that he sets up Kings, and pulls down <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ings, without any hand of the People in it; <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at Kings are <hi>Jure Divino,</hi> immediately from <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>od, without the Choice or Consent of the Peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e; and that when we have a Wicked Prince, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o breaks the Law and subverts the Govern<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ent, we must not resist him, for he is settled <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God's Authority; but tho' we have a mind to <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> rid of him and free our selves, we must not <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Means that God has put into our Hands <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> do it, but must leave it all to Providence; <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which to Expect, is an Enthusiasm beyond <hi>Ven<g ref="char:EOLhyphen"/>ner</hi>'s, who relyed upon One's chasing a Thou<g ref="char:EOLhyphen"/>sand, <hi>&amp;c.</hi> but He will not allow so much as one to stir, or resist, tho' the Knife is at their Throat, upon pain of Damnation: O the migh<g ref="char:EOLhyphen"/>ty Charm of <hi>Sherlockian</hi> Enthusiasm! And in this Luxuriancy of his Exalted Soul, He takes plea<g ref="char:EOLhyphen"/>sure to claw his <hi>Itch after Popularity</hi> by affecta<g ref="char:EOLhyphen"/>tion of a Name, like that of <hi>Loyola,</hi> St. <hi>Fran<g ref="char:EOLhyphen"/>cis</hi> or St. <hi>Dominick.</hi> And now we talk of <hi>Loyola,</hi> the <hi>Sherlockian</hi> and the <hi>Jesuite</hi> may shake Hands together, in regard they both are well-skill'd in Double-dealing, and both pretend to the Stating of Questions between Sovereign Princes: Only there wants the Contrivance of a Monthly-Meeting, to see the whole Gang of his Admi<g ref="char:EOLhyphen"/>ers walk Chicken-a-Chicken-a-train-tro, by Couples, first to a Sermon, and then to a Feast at <hi>Merchant-Taylors-Hall,</hi> for the Honour of their Leader.</p>
+            <p>A <hi>Sherlockian</hi> may be said to <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e like a wicked Chyrurgeon, that with one Hand pours Balsom into a tender Wound, and with the other strews <hi>Euphorbium</hi> upon it, to fester it, and prolong the Cure: And thus he refuses the Oath to King <hi>William</hi> to heal King <hi>James</hi>'s wounded Claim; and then takes the Oath, to the end he may have a plausible Pretence to wound King <hi>Willi<g ref="char:EOLhyphen"/>am</hi>'s Lawfull Right. Thus, as our Watermen, he looks one Way and Rows another, and is like the <hi>Serjeant in Q.</hi> Mary's <hi>days, Tam pro Que<g ref="char:EOLhyphen"/>rente, tam pro Defendente;</hi> but he so Orders the Matter, that he may lose the Cause he seems to plead for; and so you may compare him to some Seas that by the Shoar at a distance seem to have good bottom, but when you come to faddom 'em, there is no Anchor-hold.</p>
+            <p>A thorough-pac'd <hi>Sherlockian</hi> will swear to a Popish Prince the first Minute of his Accession to the Throne, and is one of the first that will lend his hand to lead the Idolater up the Steps to it; though he cannot but know that by the Law a Papist ought not to inherit the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and that therefore as good a House of Com<g ref="char:EOLhyphen"/>mons as we have had in <hi>England,</hi> Voted his Ex<g ref="char:EOLhyphen"/>clusion. And when this Popish King is settled, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:40457:2"/> couch and lye down like <hi>Issachar</hi> under the bur<g ref="char:EOLhyphen"/>then of a severe Bondage, Preaching up and Practising <hi>Passive Obedience</hi> and <hi>Non-Resistance,</hi> tho' he acts never so Arbitrarily, and Infring<g ref="char:EOLhyphen"/>es Liberty and Property; nay, and the Pro<g ref="char:EOLhyphen"/>testant Religion too never so much: <hi>He is the Lords Anointed, and must not be touch'd or resisted upon Pain of Damnation.</hi> Yet for all this Do<g ref="char:EOLhyphen"/>ctrine, this Politick <hi>Sherlockian</hi> has so much Cunning amidst his Bigottry, as not to assist his Popish King, when oppos'd by our Deli<g ref="char:EOLhyphen"/>verer: Tho' that we are deliver'd is no thanks to him, since he wou'd not resist the Oppressor, nor assist our Deliverer. When this Protestant Prince, and our gracious Protector is acknow<g ref="char:EOLhyphen"/>ledg'd by the Nation in general, represented in full Convention and Parliament, this proud and conceited <hi>Sherlockian</hi> will not own him; but gives it as his Opinion not to be over hasty (in doing ones duty as he accounts it now) in taking the New Oath of Aliegiance to him: and good reason for his delay, because his late Master K. <hi>James</hi> had a formidable Army in the Field, and he knew not on which side Provi<g ref="char:EOLhyphen"/>dence wou'd cast the success: But when he sees his late K. <hi>James</hi>'s Army broken by his Ma<g ref="char:EOLhyphen"/>jesty King <hi>William</hi>'s Victory at the <hi>Boyn,</hi> then he wonders how any one can refuse it, and strait becomes as pure a <hi>Williamite</hi> by being dipt in those Waters, as any <hi>Jew</hi> is a Christian after dipping in <hi>Jordan.</hi> And thus 'tis apparent what will open the eyes of a true <hi>Sherlockian,</hi> the Waters of the <hi>Boyn</hi> are the only Waters that could have this effectual Operation upon his Sight: They are beyond the Womans Urine that never knew any Man but her own Husband, which cur'd the blind <hi>Egyptian</hi> King, as <hi>He<g ref="char:EOLhyphen"/>rodotus</hi> tells the Story. The Waters of <hi>Jordan</hi> were never more effectual to cure <hi>Naaman</hi>'s Di<g ref="char:EOLhyphen"/>stemper, than the Waters of the <hi>Boin</hi> to wash away the Leprosie of a <hi>Jacobite</hi> Conscience. O! the Power and Efficacy of the Waters of the <hi>Boin.</hi> He was secretly <hi>concern'd,</hi> that is to say, <hi>vex'd in his Heart,</hi> that some, not many, of his old intimate Cronies had taken the Oaths: And tho he refus'd to take 'em, he never engag'd in any <hi>Faction against it;</hi> nor ever made it his Business to disswade men from it, any more than when his Opinion was ask'd, to declare his own Thoughts, <hi>viz.</hi> That all were perjur'd who took 'em: Which I be<g ref="char:EOLhyphen"/>lieve few doubt had greater Influence on his Admirers, (who were none of the wisest, see<g ref="char:EOLhyphen"/>ing they could be influenc'd by him, in oppo<g ref="char:EOLhyphen"/>sition to the great Body of the Nation, Lords and Commons, and the greatest and best part of the Bishops and Clergy, <hi>&amp;c.)</hi> to hinder 'em from taking the Oaths <hi>then,</hi> than all his Rea<g ref="char:EOLhyphen"/>sons, grounded on such absurd Principles, can have on 'em to take 'em <hi>now,</hi> especially when this Declaration of his own Thoughts, was back'd and confirm'd by his own Example of re<g ref="char:EOLhyphen"/>fusing 'em for above a year together.</p>
+            <p>A genuine <hi>Sherlockian</hi> has the Arrogance to think himself wiser and Honester than any of his Brethren; for he proudly declares, <hi>That he does not know, that he has given any just Occasion to the World, to mark him out for a Dishonest Man or a Fool:</hi> Tho how he can be excus'd from be<g ref="char:EOLhyphen"/>ing both, I can't see, when he does in effect call all those <hi>Rebels</hi> who resisted the late King <hi>James,</hi> and Assisted in bringing in his present Majesty King <hi>William.</hi> And how he can be Wise or Honest, that renounces not the Principles of that Foolish, Knavish, and Enslaving Do<g ref="char:EOLhyphen"/>ctrine of <hi>Passive Obedience</hi> and <hi>Non-Resistance,</hi> I can't understand: A Doctrine, which if it had been Preach'd and practis'd by others, as much as by the <hi>Sherlockians,</hi> wou'd have impe<g ref="char:EOLhyphen"/>ded our Happy Revolution, more than all the King's Forces cou'd have forwarded it; and so left us groaning under the Tyrannical Yoak of Popery and <hi>Sherlocism.</hi>
+            </p>
+            <p>To summ up all, a right <hi>Sherlockain</hi> will live in every Air, side with every Government, and conform to all sorts of Revolutions: He will be an Advocate for the Great <hi>Mogul,</hi> the <hi>Grand Seignior,</hi> the <hi>French</hi> King, Count <hi>Teckley,</hi> or any other Prince or Potentate whatsoever; without respect to his Title, if he gets but once into possession: He believes that <hi>Oliver</hi> was as well settled in his Protectorship, as King <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> on his Throne, by Gods Authority: and so he blames his Loyal Ancestors for not swear<g ref="char:EOLhyphen"/>ing Allegiance then, as much as he does those who refuse to do it to King <hi>William</hi> now; by which he looks asquint on our present Govern<g ref="char:EOLhyphen"/>ment under his Majesty King <hi>William,</hi> as if i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> had no more Legal Foundation than that. I<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> short, as the Heathens, and looser sort of Pr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tenders to Christianity, adore good Fortune<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Female Sex; so our <hi>Sherlockian,</hi> because h<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> would not seem to make his Courtship to<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Harlot, worships her in the Male Sex, by th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> name of the <hi>Prince in Possession:</hi> and inded<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 'tis no wonder that a Disciple of the Master<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Temple shou'd admire eleven Points of t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Law, and resolve to be Vicar of <hi>Bray</hi> stil<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> But upon the whole matter, 'tis apparent th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Complyance of a <hi>Sherlockian</hi> is only forc<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by the necessity of self Interest, and comfor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ble Importance; and therefore we may co<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>clude with <hi>Hudibras,</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>He that recants against his Will,</l>
+                  <l>Is of the same Opinion still.</l>
+               </lg>
+            </q>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, for the Author, and are to be sold by most Booksellers. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
